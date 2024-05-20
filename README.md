@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maru Garnica
 ====================================================================================================================================
 
-data analyst
+Data analyst
 ------------
 
 I come from a medical background and have been very passionate about analytics so I've been doing my own projects in my spare time. I taught myself SQL, Tableau, Excel, and currently learning python and google analytics.
