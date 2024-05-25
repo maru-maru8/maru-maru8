@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data analyst
 ------------
 
-I come from a medical background and have been very passionate about analytics so I've been doing my own projects in my spare time. I taught myself SQL, Tableau, Excel, and currently learning python and google analytics.
+I come from a medical background and have been very passionate about analytics so I've been doing my own projects in my spare time. I taught myself SQL, Tableau, Excel, and currently learning python and google analytics. I am looking for an internship or Junior Data Analyst role and creating projects so solidify my skills. 
 
 * 🌍  I'm based in Kansas City, Missouri
 * ✉️  You can contact me at [omargarnica545@gmail.com](mailto:omargarnica545@gmail.com)
