@@ -8,7 +8,7 @@ I come from a medical background and have been very passionate about analytics s
 
 * 🌍  I'm based in Kansas City, Missouri
 * ✉️  You can contact me at [omargarnica545@gmail.com](mailto:omargarnica545@gmail.com)
-* 🧠  I'm learning Python and google analytics
+* 🧠  I'm learning Python and Power BI
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I lived in Japan and Taiwan. I speak English, Spanish, Japanese and learning Mandarin and Korean
 
